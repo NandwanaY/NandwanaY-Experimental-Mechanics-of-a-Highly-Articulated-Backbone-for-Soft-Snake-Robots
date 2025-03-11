@@ -1,2 +1,1 @@
-Experimental Mechanics of a Highly Articulated Backbone for Soft Snake Robots <br />
-Designs and Videos repository for Snake Robot
+ Designs and videos repository for "Experimental Mechanics of a Highly Articulated Backbone for Soft Snake Robot"
